@@ -44,11 +44,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/excel-original-wordmark.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/python/excel-original-wordmark.svg" height="40" alt="Excel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql-original-wordmark.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/mysql-original-wordmark.svg" height="40" alt="Mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/PowerBI-original-wordmark.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/PowerBI-original-wordmark.svg" height="40" alt="PowerBI logo"  />
   <img width="12" />
 </div>
 
