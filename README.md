@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm a B.tech Student from Muzaffarnagar<br><br>- 🔭 I’m working as Python Developer.<br>- 📚 I'm currently learning Python With Machine learning.<br>- ⚡ In my free time I Code😅😅.<br>-   I have completed basic C programming and some basics of #Html | #AWS | #python | #AWS | #basic of ethical hacking.</p>
+<p align="left">I'm a B.tech Student from Muzaffarnagar<br><br>- 🔭 I’m working as Data Analyst.<br>- 📚 I'm currently learning Data Science.<br>- ⚡ In my free time I Code😅😅.<br>-   I have completed basic C programming and some basics of #Html | #AWS | #python | #AWS | #basic of ethical hacking | #Excel | #Mysql | #PowerBI.</p>
 
 ###
 
@@ -42,13 +42,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/excel-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/mysql-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
