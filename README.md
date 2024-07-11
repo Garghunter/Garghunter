@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/P/power-bi-logo-AF9ED32921-seeklogo.com.png" height="40" alt="PowerBI logo" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="PowerBI logo" />
 </div>
 
 ###
