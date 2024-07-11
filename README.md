@@ -44,11 +44,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file/file-original.svg" height="40" alt="excel logo" />
+  <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" height="40" alt="Excel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
+  <img src="https://seeklogo.com/images/P/power-bi-logo-AF9ED32921-seeklogo.com.png" height="40" alt="PowerBI logo" />
 </div>
 
 ###
